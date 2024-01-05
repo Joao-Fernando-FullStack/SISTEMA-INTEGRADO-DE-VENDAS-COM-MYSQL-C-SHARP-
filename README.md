@@ -1,4 +1,4 @@
-![Captura de Ecrã (145)](https://github.com/JohnSoft-Tecnologias/SISTEMA-INTEGRADO-DE-VENDAS-COM-MYSQL-C-SHARP-/assets/68354446/9e689ca5-8e45-4f19-831d-1b59ffbe56e4)# SISTEMA-INTEGRADO-DE-VENDAS-COM-MYSQL-C-SHARP-
+SISTEMA-INTEGRADO-DE-VENDAS-COM-MYSQL-C-SHARP-
 Olá pessoal, o SIV (Sistema Integrado de Vendas) foi um projecto que desenvolvi no primeiro ano do curso de engenharia informática em 2019, publiquei o video no youtube faz tempo podem acessar este link para ver como funciona:https://youtu.be/z02B8t31wCU , decidi colocar ele no meu repositorio espero que gostem!
 
 
